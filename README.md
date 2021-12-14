@@ -103,7 +103,7 @@ $ npm start
  
  ## SOME SCREENSHOTS
  
- <p  align="center"  >
+<p  align="center"  >
 <img  src="screenshots/Screenshot from 2021-12-14 14-40-14.png"  height = "400"/> </p>
 
 <p  align="center"  >
