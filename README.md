@@ -15,7 +15,7 @@ Our Main target was to create a dynamic, responsive e-commerce clothing store wi
  * Games to win  `Vouchars and Discount`.
 
 ## YOUTUBE LINKS TO THE PREVIEW :
-Online Clothing Store 
+Online Clothing Store/
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/dsYeJJSruIc/0.jpg)](https://youtu.be/dsYeJJSruIc)
 [CLICK HERE](https://youtu.be/dsYeJJSruIc).
 
@@ -103,6 +103,48 @@ $ npm start
  
  ## SOME SCREENSHOTS
  
+ <p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-14.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-24.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-35.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-40.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-44.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-29.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-42.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-48.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-25.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-29.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-18.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-31.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-56.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screesshots/screenshot from 2021-12-14 14-40-08.png"  height = "400"/> </p>
+
  ## AUTHORS
  * [Marufur Rahman](https://github.com/MarufurRahmanShovon)
  * [Hasibur Rahman](https://github.com/hamim4389)
