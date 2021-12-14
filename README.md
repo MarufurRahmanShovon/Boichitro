@@ -15,7 +15,10 @@ Our Main target was to create a dynamic, responsive e-commerce clothing store wi
  * Games to win  `Vouchars and Discount`.
 
 ## YOUTUBE LINKS TO THE PREVIEW :
-Online Clothing Store [CLICK HERE](https://youtu.be/dsYeJJSruIc).
+Online Clothing Store 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/dsYeJJSruIc/0.jpg)](https://youtu.be/dsYeJJSruIc)
+[CLICK HERE](https://youtu.be/dsYeJJSruIc).
+
 
 ## FEATURES IMPLEMENTED
 
