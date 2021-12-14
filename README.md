@@ -119,31 +119,31 @@ $ npm start
 <img  src="screenshots/Screenshot from 2021-12-14 14-40-44.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-29.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-42-29.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-42.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-42-42.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-48.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-42-48.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-25.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-43-25.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-29.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-43-29.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-18.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-44-18.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-31.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-44-31.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-56.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-45-56.png"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="screenshots/Screenshot from 2021-12-14 14-40-08.png"  height = "400"/> </p>
+<img  src="screenshots/Screenshot from 2021-12-14 14-47-08.png"  height = "400"/> </p>
 
  ## AUTHORS
  * [Marufur Rahman](https://github.com/MarufurRahmanShovon)
