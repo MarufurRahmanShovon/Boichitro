@@ -1,4 +1,4 @@
-# NOBORUPA : Online Clothing Store
+# Boichitro : Online Clothing Store
 
 ## OBJECTIVE
 
@@ -13,6 +13,11 @@ Our Main target was to create a dynamic, responsive e-commerce clothing store wi
  * `Filter and Sorting` products to users need.
  * Popular products.
  * Games to win  `Vouchars and Discount`.
+
+## YOUTUBE LINKS TO THE PREVIEW :
+Online Clothing Store <br />
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/dsYeJJSruIc/0.jpg)](https://youtu.be/dsYeJJSruIc) <br />
+[CLICK HERE](https://youtu.be/dsYeJJSruIc).
 
 
 ## FEATURES IMPLEMENTED
@@ -68,7 +73,7 @@ Our Main target was to create a dynamic, responsive e-commerce clothing store wi
  
  ## CLONE THIS PROJECT
  ```
- git clone https://github.com/MarufurRahmanShovon/NOBORUPA.git
+ git clone https://github.com/MarufurRahmanShovon/Boichitro
  ````
  ## RUN THIS PROJECT
  
@@ -79,11 +84,11 @@ You will also see any lint errors in the console.
 
 Change directory of admin, e-commerce-api & client:
 ```
-$ cd ./filepath/NOBORUPA/e-commerce-api
+$ cd ./filepath/Boichitro/e-commerce-api
 
-$ cd ./filepath/NOBORUPA/client
+$ cd ./filepath/Boichitro/client
 
-$ cd ./filepath/NOBORUPA/supplier
+$ cd ./filepath/Boichitro/admin
 
 ```
 Install npm in those Directories
@@ -96,11 +101,53 @@ $ npm start
 ```
 
  
+ ## SOME SCREENSHOTS
  
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-40-14.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-40-24.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-40-35.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-40-40.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-40-44.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-42-29.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-42-42.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-42-48.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-43-25.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-43-29.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-44-18.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-44-31.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-45-56.png"  height = "400"/> </p>
+
+<p  align="center"  >
+<img  src="screenshots/Screenshot from 2021-12-14 14-47-08.png"  height = "400"/> </p>
+
  ## AUTHORS
  * [Marufur Rahman](https://github.com/MarufurRahmanShovon)
- * [Zahidul Akram](https://github.com/Zahidul-Akram)
+ * [Hasibur Rahman](https://github.com/hamim4389)
  
-
 
 
